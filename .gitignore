@@ -2,5 +2,6 @@
 /*.jpeg
 /soja
 /Training/_recortado
+/Training/models/*
 /Training/bkp
 /.venv
