@@ -1,7 +1,8 @@
 /*.tiff
 /*.jpeg
 /soja
-/Training/_recortado
+/Training/_recortado*
 /Training/models/*
 /Training/bkp
 /.venv
+/_recortado*
