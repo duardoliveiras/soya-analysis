@@ -7,3 +7,5 @@
 /.venv
 /_recortado*
 /segmentacoes
+.gradio
+
